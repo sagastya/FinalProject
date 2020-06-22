@@ -1,4 +1,5 @@
 # Machine Learning Project
+Group project with classmates from Georgia Tech Bootcamp
 
 ## Diabetes Machine Learning Predictor
 
