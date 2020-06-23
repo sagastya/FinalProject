@@ -32,12 +32,10 @@ The App takes key input features for diabetes prediction of 'Yes' or 'No' using 
   7. SQL 
        * PostgreSQL
        
-### Contributors
-
-Thanks to the following people who have contributed to this project:
-    
+### Credits
     * @Whitlockg
     * @malisum
+    * @sagastya
     * @Atlchris67
     * @jcook25
     * Isha Iqbal (Tableau)
