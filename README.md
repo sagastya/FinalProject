@@ -1,7 +1,6 @@
 # Machine Learning Project
 ## Diabetes Machine Learning Predictor
 
-## Description
 The purpose of the project is to construct a diabetes prediction app through machine learning algorithms based on diagnostic measurements.
 The App takes key input features for diabetes prediction of 'Yes' or 'No' using Predictive Analytics. 
 
