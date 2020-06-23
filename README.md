@@ -36,12 +36,12 @@ The App takes key input features for diabetes prediction of 'Yes' or 'No' using 
 
 Thanks to the following people who have contributed to this project:
     
-    * @
-    * @
-    * @
-    * @
-    * @
-    * @ 
+    * @Whitlockg
+    * @malisum
+    * @Atlchris67
+    * @jcook25
+    * Isha Iqbal (Tableau)
+    
 
     
  
